@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Cory, networking nerd and perf junkie. I work on System.Net and review your .NET APIs at Microsoft.
+I'm Cory, networking nerd and perf junkie. Formerly dev of System.Net at Microsoft.
 
 Want to chat? I can be found at:
 - [irc.libera.chat](https://libera.chat/) #csharp as scalablecory
